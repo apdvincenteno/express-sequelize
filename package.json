@@ -1,0 +1,28 @@
+{
+  "name": "express-sequelize",
+  "version": "1.0.0",
+  "description": "repository for sequelize article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test\""
+  },
+  "repository": {
+    "type": "git"
+
+  },
+  "keywords": [
+    "sequelize"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.4",
+    "sqlite3": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}
